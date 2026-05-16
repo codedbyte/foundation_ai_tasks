@@ -1,6 +1,5 @@
 from collections import deque
 
-# my graph setup
 graph = {
     'Start': ['A', 'B'],
     'A': ['Start', 'C', 'D'],
